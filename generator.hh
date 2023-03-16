@@ -16,6 +16,10 @@ public:
 
 private:
     G4ParticleGun *fParticleGun;
+    G4ThreeVector *pos;
+    G4ThreeVector *mom;
+    G4ParticleDefinition *particle1;
+    G4ParticleDefinition *particle2;
 };
 
 
