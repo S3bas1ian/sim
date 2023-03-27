@@ -25,7 +25,7 @@ G4bool MySensitiveDetector::ProcessHits(G4Step *aStep, G4TouchableHistory *ROhis
 
     G4ThreeVector posDetector = touchable->GetVolume()->GetTranslation();
 
-    G4cout << "Detector position: " << posDetector << G4endl;
+    //G4cout << "Detector position: " << posDetector << G4endl;
 
      // I added this line outside of the tutorial, because the make command raised a warning
 

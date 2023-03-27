@@ -7,3 +7,4 @@
 /vis/scene/add/axes
 /vis/scene/add/eventID
 /vis/scene/endOfEventAction accumulate
+/vis/viewer/rebuild
