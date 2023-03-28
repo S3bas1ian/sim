@@ -1,4 +1,0 @@
-/home/sebastian/Desktop/sim/build/CMakeFiles/sim.dir
-/home/sebastian/Desktop/sim/build/CMakeFiles/Simulation.dir
-/home/sebastian/Desktop/sim/build/CMakeFiles/edit_cache.dir
-/home/sebastian/Desktop/sim/build/CMakeFiles/rebuild_cache.dir
